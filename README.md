@@ -1,16 +1,15 @@
 # Grupo - Carnaval de Barranquilla
-## Inicio trabajo final
+## Inicio trabajo final - 16 de mayo
 
 ### Tema: Carnaval de Barranquilla
 
 Integrantes:
-- Maca Ruiz: Redacción, tipografía, color, programación.
-- Irene Castiglione:
-- Fran Romo:
-- Constanza Montero: Redacción y síntesis de información y textos. Y programación.
-- Daniela Minzer: Gráfica, diagramación, síntesis de información y programación.
-- Marjorie Martínez:
-
+- Irene Castiglione: gráfica, ilustraciones, investigación y programación.
+- Marjorie Martínez: investigación, sintetizar, programación y diagramación.
+- Daniela Minzer: gráfica, diagramación, síntesis de información y programación.
+- Constanza Montero: redacción, síntesis de información/textos y programación.
+- Francisca Romo: boceto, diagramación, ilustraciones e investigación.
+- Macarena Ruiz: redacción, tipografía, color y programación.
 
 ## Tema del curso: 
 Carnavales Latinoamericanos que representen parte de la cultura e historia de cada país latinoamericano. 
