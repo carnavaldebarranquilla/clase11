@@ -1,4 +1,4 @@
-# Grupo - Carnaval de Barranquilla
+# Trabajo Final Infografía Digital
 ## Inicio trabajo final - 16 de mayo
 
 ### Tema: Carnaval de Barranquilla
